@@ -117,7 +117,7 @@
    ![Alt](./100Hz/Rotation/The%20frequency%20domain%20of%20the%20acceleration.png)
 <div align=left>
 
-#6.Directory Tree:
+# 6.Directory Tree:
 ```
 Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracking
     ├─10Hz
