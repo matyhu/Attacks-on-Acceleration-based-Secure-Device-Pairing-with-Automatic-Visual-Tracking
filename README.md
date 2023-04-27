@@ -1,5 +1,5 @@
 # Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracking
-##1. We gathered 10 volunteers with 10 mobile phones for the experiment.
+## 1. We gathered 10 volunteers with 10 mobile phones for the experiment.
 **The details of the 10 volunteers and their mobile phones are as follows:**
 
 |  Characteristics   | Volunteer1  | Volunteer2   | Volunteer3  | Volunteer4   | Volunteer5  | Volunteer6   | Volunteer7  | Volunteer8   | Volunteer9  |  Volunteer10  |
