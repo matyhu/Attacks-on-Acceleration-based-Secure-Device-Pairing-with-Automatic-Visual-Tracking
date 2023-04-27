@@ -78,7 +78,7 @@
 
 <div align=left>
 
-#5.We conduct experiments with sampling frequencies of 60Hz and 100Hz.
+# 5.We conduct experiments with sampling frequencies of 60Hz and 100Hz.
 **To justify that the camera and accelerometer sampling frequency is 10 Hz because the maximum frequency at which a person shakes the phone is within 5 Hz (ie, shake the phone 5 times per second). We selected the youngest and most powerful volunteer and made him shake the phone as fast as possible to complete two sets of experiments:**
 
 **1. Set the sampling frequency of both the camera and the acceleration sensor to 60Hz:**
