@@ -1,5 +1,5 @@
 # Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracking
-##1. We gathered 10 volunteers with 10 mobile phones for the experiment.
+## 1. We gathered 10 volunteers with 10 mobile phones for the experiment.
 **The details of the 10 volunteers and their mobile phones are as follows:**
 
 |  Characteristics   | Volunteer1  | Volunteer2   | Volunteer3  | Volunteer4   | Volunteer5  | Volunteer6   | Volunteer7  | Volunteer8   | Volunteer9  |  Volunteer10  |
@@ -78,7 +78,7 @@
 
 <div align=left>
 
-#5.We conduct experiments with sampling frequencies of 60Hz and 100Hz.
+# 5.We conduct experiments with sampling frequencies of 60Hz and 100Hz.
 **To justify that the camera and accelerometer sampling frequency is 10 Hz because the maximum frequency at which a person shakes the phone is within 5 Hz (ie, shake the phone 5 times per second). We selected the youngest and most powerful volunteer and made him shake the phone as fast as possible to complete two sets of experiments:**
 
 **1. Set the sampling frequency of both the camera and the acceleration sensor to 60Hz:**
@@ -117,7 +117,7 @@
    ![Alt](./100Hz/Rotation/The%20frequency%20domain%20of%20the%20acceleration.png)
 <div align=left>
 
-#6.Directory Tree:
+# 6.Directory Tree:
 ```
 Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracking
     ├─10Hz
