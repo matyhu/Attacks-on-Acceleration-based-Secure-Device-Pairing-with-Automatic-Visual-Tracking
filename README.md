@@ -83,7 +83,7 @@
 
 **Final coherence：**
 * **For the calculation process of final coherence, please refer to Section III-B of the paper.**
-* **Here we directly give the value of final coherence 0.7945, which exceeds the threshold of 0.55. Therefore, it shows that the mobile phone using this model and system can successfully carry out the attack.**
+* **Here we directly give the value of final coherence 0.8745, which exceeds the threshold of 0.55. Therefore, it shows that the mobile phone using this model and system can successfully carry out the attack.**
 
 
 # 5.We conduct experiments with sampling frequencies of 60Hz and 100Hz.
