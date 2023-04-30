@@ -9,14 +9,14 @@
 * **Color vedio:**
 <div align=center>
 
- ![Alt](./Indoor_10Hz_Huaweinova9_rotation.gif) 
+ ![Alt](./Indoor_10Hz_Huaweinova9_shaking.gif) 
 <center><p> The color video of the rotation mode motion   <center><p>
 </div>
 
 * **Depth vedio:** 
 <div align=center>
 
- ![Alt](./Indoor_10Hz_Huaweinova9_rotation_depth.gif) 
+ ![Alt](./Indoor_10Hz_Huaweinova9_shaking_depth.gif) 
 <center><p> The color video of the rotation mode motion   <center><p>
 </div>
 
@@ -30,7 +30,7 @@
 * **The frequency domain of the acceleration:**
 <div align=center>
 
- ![Alt](./The%20frequency%20domain%20of%20the%20acceleration.png) 
+ ![Alt](./The%20frequency%20domain%20of%20the%20accelerations.png) 
 </div>
 
 * **The magnitude squared cohenrence of two accelerations:**
@@ -40,4 +40,4 @@
 </div>
 
 **Final coherence**
-**The final coherence of this experiment is 0.9475, exceeding the threshold of 0.55. Our attack works.**
+**The final coherence of this experiment is 0.91033, exceeding the threshold of 0.55. Our attack works.**
