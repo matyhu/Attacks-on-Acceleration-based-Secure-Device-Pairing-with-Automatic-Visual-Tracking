@@ -10,14 +10,14 @@
 <div align=center>
 
  ![Alt](./Indoor_10Hz_Huaweinova9_rotation.gif) 
-<center><p> The color video of the rotation mode motion   <center><p>
+
 </div>
 
 * **Depth vedio:** 
 <div align=center>
 
  ![Alt](./Indoor_10Hz_Huaweinova9_rotation_depth.gif) 
-<center><p> The color video of the rotation mode motion   <center><p>
+
 </div>
 
 **Figures**
@@ -40,4 +40,4 @@
 </div>
 
 **Final coherence**
-**The final coherence of this experiment is 0.9475, exceeding the threshold of 0.55. Our attack works.**
+**The final coherence of this experiment is 0.8745, exceeding the threshold of 0.55. Our attack works.**

@@ -1,6 +1,6 @@
 ## 1.Experiment setting
 * **Sampling rate : 10Hz** 
-* **Motion mode: rotation**
+* **Motion mode: shaking**
 * **Mobile phone's brand: Huawei nova9**
 * **Mobile phone's OS: HarmnyOS3.0.0**
 ## 2.Results
@@ -10,14 +10,14 @@
 <div align=center>
 
  ![Alt](./Indoor_10Hz_Huaweinova9_shaking.gif) 
-<center><p> The color video of the rotation mode motion   <center><p>
+
 </div>
 
 * **Depth vedio:** 
 <div align=center>
 
  ![Alt](./Indoor_10Hz_Huaweinova9_shaking_depth.gif) 
-<center><p> The color video of the rotation mode motion   <center><p>
+
 </div>
 
 **Figures**
@@ -40,4 +40,4 @@
 </div>
 
 **Final coherence**
-**The final coherence of this experiment is 0.91033, exceeding the threshold of 0.55. Our attack works.**
+**The final coherence of this experiment is 0.8103, exceeding the threshold of 0.55. Our attack works.**

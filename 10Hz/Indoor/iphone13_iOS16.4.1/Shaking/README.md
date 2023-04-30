@@ -1,22 +1,22 @@
 ## 1.Experiment setting
 * **Sampling rate : 10Hz** 
 * **Motion mode: rotation**
-* **Mobile phone's brand: iPhone13Pro**
-* **Mobile phone's OS: iOS16.1**
+* **Mobile phone's brand: iPhone13**
+* **Mobile phone's OS: iOS16.4.1**
 ## 2.Results
 
 **Vedios**
 * **Color vedio:**
 <div align=center>
 
- ![Alt](./Indoor_10Hz_iPhone13Pro_rotation.gif) 
+ ![Alt](./Indoor_10Hz_iPhone13_shaking.gif) 
 
 </div>
 
 * **Depth vedio:** 
 <div align=center>
 
- ![Alt](./Indoor_10Hz_iPhone13Pro_rotation_depth.gif) 
+ ![Alt](./Indoor_10Hz_iPhone13_shaking_depth.gif) 
 
 </div>
 
@@ -40,4 +40,4 @@
 </div>
 
 **Final coherence**
-**The final coherence of this experiment is 0.8189, exceeding the threshold of 0.55. Our attack works.**
+**The final coherence of this experiment is 0.7624, exceeding the threshold of 0.55. Our attack works.**
