@@ -1,6 +1,6 @@
 ## 1.Experiment setting
 * **Sampling rate : 10Hz** 
-* **Motion mode: rotation**
+* **Motion mode: shaking**
 * **Mobile phone's brand: iPhone13**
 * **Mobile phone's OS: iOS16.4.1**
 ## 2.Results
