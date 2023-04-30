@@ -36,7 +36,7 @@
 
 ## 4.The display content of each experiment result includes 2 videos, 3 figures and the final coherence.
 
-**Let's take the results in the "./10Hz/Indoor/Huawei nova9_harmonyOS3.0.0/" subfolder as an example to show the results of each experiment:**
+**Let's take the results in the "./10Hz/Indoor/Huawei nova9_harmonyOS3.0.0/Shaking/" subfolder as an example to show the results of each experiment:**
 
 **Videos**
 * **Color video: it is displayed as a .gif, playing the shaking process recorded by the camera.**
