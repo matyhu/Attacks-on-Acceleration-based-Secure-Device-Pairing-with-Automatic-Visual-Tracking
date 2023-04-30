@@ -7,7 +7,7 @@
 | **Sex**| male | male | male | male | male |female|female|female|female|female|
 | **Age**  | 27 | 25|26|23|25|25|25|26|26|24|
 |**Phone Brand**| Yijia ACE2|iPhone7|Huawei nova9|iPhone13Pro|Redmi k50u|JianguoPro2|iPhone7|Vivo iQQneo5|iphone13|Xiaomi 12S|
-|**Operating system**|Android13|iOS15.2.1|HarmonyOS3.0.0|iOS16.1|Android12|Anroid7.1.1|iOS11|Android11|iOS16.4.1|Android12|
+|**Operating System**|Android13|iOS15.2.1|HarmonyOS3.0.0|iOS16.1|Android12|Anroid7.1.1|iOS11|Android11|iOS16.4.1|Android12|
 
 ## 2.Experiments include complex real-world scenarios: indoors and outdoors.
 **The shaking time of each volunteer is roughly 30s.**
