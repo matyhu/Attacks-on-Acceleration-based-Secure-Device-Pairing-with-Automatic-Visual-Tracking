@@ -40,4 +40,4 @@
 </div>
 
 **Final coherence**
-**The final coherence of this experiment is 0.9142, exceeding the threshold of 0.55. Our attack works.**
+**The final coherence of this experiment is 0.8642, exceeding the threshold of 0.55. Our attack works.**
