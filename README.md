@@ -238,7 +238,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7btt" colspan="2">Sex</td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Sex</td>
     <td class="tg-c3ow">male</td>
     <td class="tg-c3ow">male</td>
     <td class="tg-c3ow">male</td>
@@ -251,7 +251,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">female</td>
   </tr>
   <tr>
-    <td class="tg-7btt" colspan="2">Age</td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Age</td>
     <td class="tg-c3ow">27</td>
     <td class="tg-c3ow">25</td>
     <td class="tg-c3ow">26</td>
@@ -264,7 +264,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">24</td>
   </tr>
   <tr>
-    <td class="tg-7btt" colspan="2">Phone Brand</td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Phone Brand</td>
     <td class="tg-c3ow">Yijia ACE2</td>
     <td class="tg-c3ow">iPhone7</td>
     <td class="tg-c3ow">Huawei nova9</td>
@@ -277,7 +277,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">Xiaomi 12S</td>
   </tr>
   <tr>
-    <td class="tg-7btt" colspan="2">Operating System<br></td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Operating System<br></td>
     <td class="tg-c3ow">Android13</td>
     <td class="tg-c3ow">iOS15.2.1</td>
     <td class="tg-c3ow">HarmonyOS3.0.0</td>
@@ -290,8 +290,8 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">Android12</td>
   </tr>
   <tr>
-    <td class="tg-7btt" rowspan="2">10Hz Indoor <br>experiments' final coherence</td>
-    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-7btt" rowspan="2"><span style="font-weight:bold">10Hz Indoor <br>experiments' final coherence</td>
+    <td class="tg-7btt"><span style="font-weight:bold">Rotation Mode</td>
     <td class="tg-c3ow">0.8599</td>
     <td class="tg-c3ow">0.8642</td>
     <td class="tg-c3ow">0.8745</td>
@@ -304,7 +304,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">0.8721</td>
   </tr>
   <tr>
-    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-amwm"><span style="font-weight:bold">Shaking Mode</td>
     <td class="tg-baqh">0.7601</td>
     <td class="tg-baqh">0.8318</td>
     <td class="tg-baqh">0..8103</td>
@@ -317,8 +317,8 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-baqh">0.7457</td>
   </tr>
   <tr>
-    <td class="tg-7btt" rowspan="2">10Hz Outdoor<br>experiments' final coherence</td>
-    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-7btt" rowspan="2"><span style="font-weight:bold">10Hz Outdoor<br>experiments' final coherence</td>
+    <td class="tg-7btt"><span style="font-weight:bold">Rotation Mode</td>
     <td class="tg-c3ow">0.8596</td>
     <td class="tg-c3ow">0.8423</td>
     <td class="tg-c3ow">0.8575</td>
@@ -331,7 +331,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-c3ow">0.8293</td>
   </tr>
   <tr>
-    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-amwm"><span style="font-weight:bold">Shaking Mode</td>
     <td class="tg-baqh">0.7180</td>
     <td class="tg-baqh">0.7121</td>
     <td class="tg-baqh">0.6293</td>
@@ -344,22 +344,22 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
     <td class="tg-baqh">0.7949</td>
   </tr>
   <tr>
-    <td class="tg-7btt" rowspan="2">60Hz experiments' final coherence</td>
-    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-7btt" rowspan="2"><span style="font-weight:bold">60Hz experiments' final coherence</td>
+    <td class="tg-7btt"><span style="font-weight:bold">Rotation Mode</td>
     <td class="tg-c3ow">0.7581</td>
     <td class="tg-hafo" colspan="9" rowspan="4"></td>
   </tr>
   <tr>
-    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-amwm"><span style="font-weight:bold">Shaking Mode</td>
     <td class="tg-baqh">0.5728</td>
   </tr>
   <tr>
-    <td class="tg-7btt" rowspan="2">100Hz experiments' final coherence</td>
-    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-7btt" rowspan="2"><span style="font-weight:bold">100Hz experiments' final coherence</td>
+    <td class="tg-7btt"><span style="font-weight:bold">Rotation Mode</td>
     <td class="tg-c3ow">0.7629</td>
   </tr>
   <tr>
-    <td class="tg-7btt">Shaking Mode</td>
+    <td class="tg-7btt"><span style="font-weight:bold">Shaking Mode</td>
     <td class="tg-c3ow">0.7840</td>
   </tr>
 </tbody>
