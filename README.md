@@ -238,7 +238,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7btt" colspan="2">Sex</td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Sex</span></td>
     <td class="tg-c3ow">male</td>
     <td class="tg-c3ow">male</td>
     <td class="tg-c3ow">male</td>
