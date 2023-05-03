@@ -205,7 +205,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 
 <escape>
 
-</style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 1184px">
 <colgroup>
 <col style="width: 109px">
