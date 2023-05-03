@@ -216,6 +216,7 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 1184px">
 <colgroup>
 <col style="width: 109px">
