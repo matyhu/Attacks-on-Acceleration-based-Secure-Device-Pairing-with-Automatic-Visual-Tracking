@@ -205,7 +205,8 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 
 <escape>
 
-<table style="undefined;table-layout: fixed; width: 1184px">
+
+<table class="tg" style="undefined;table-layout: fixed; width: 1184px">
 <colgroup>
 <col style="width: 109px">
 <col style="width: 112px">
@@ -222,144 +223,144 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Characteristic</th>
-    <th>Volunteer1</th>
-    <th>Volunteer2</th>
-    <th>Volunteer3</th>
-    <th>Volunteer4</th>
-    <th>Volunteer5</th>
-    <th>Volunteer6</th>
-    <th>Volunteer7</th>
-    <th>Volunteer8</th>
-    <th>Volunteer9</th>
-    <th>Volunteer10</th>
+    <th class="tg-c3ow" colspan="2"><span style="font-weight:bold">Characteristic</span></th>
+    <th class="tg-7btt">Volunteer1</th>
+    <th class="tg-7btt">Volunteer2</th>
+    <th class="tg-7btt">Volunteer3</th>
+    <th class="tg-7btt">Volunteer4</th>
+    <th class="tg-7btt">Volunteer5</th>
+    <th class="tg-7btt">Volunteer6</th>
+    <th class="tg-7btt">Volunteer7</th>
+    <th class="tg-7btt">Volunteer8</th>
+    <th class="tg-7btt">Volunteer9</th>
+    <th class="tg-7btt">Volunteer10</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">Sex</td>
-    <td>male</td>
-    <td>male</td>
-    <td>male</td>
-    <td>male</td>
-    <td>male</td>
-    <td>female</td>
-    <td>female</td>
-    <td>female</td>
-    <td>female</td>
-    <td>female</td>
+    <td class="tg-7btt" colspan="2"><span style="font-weight:bold">Sex</span></td>
+    <td class="tg-c3ow">male</td>
+    <td class="tg-c3ow">male</td>
+    <td class="tg-c3ow">male</td>
+    <td class="tg-c3ow">male</td>
+    <td class="tg-c3ow">male</td>
+    <td class="tg-c3ow">female</td>
+    <td class="tg-c3ow">female</td>
+    <td class="tg-c3ow">female</td>
+    <td class="tg-c3ow">female</td>
+    <td class="tg-c3ow">female</td>
   </tr>
   <tr>
-    <td colspan="2">Age</td>
-    <td>27</td>
-    <td>25</td>
-    <td>26</td>
-    <td>23</td>
-    <td>25</td>
-    <td>25</td>
-    <td>25</td>
-    <td>26</td>
-    <td>26</td>
-    <td>24</td>
+    <td class="tg-7btt" colspan="2">Age</td>
+    <td class="tg-c3ow">27</td>
+    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">23</td>
+    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">24</td>
   </tr>
   <tr>
-    <td colspan="2">Phone Brand</td>
-    <td>Yijia ACE2</td>
-    <td>iPhone7</td>
-    <td>Huawei nova9</td>
-    <td>iPhone13Pro</td>
-    <td>Redmi k50u</td>
-    <td>JianguoPro2</td>
-    <td>iPhone7</td>
-    <td>Vivo iQQneo5</td>
-    <td>iphone13 mini</td>
-    <td>Xiaomi 12S</td>
+    <td class="tg-7btt" colspan="2">Phone Brand</td>
+    <td class="tg-c3ow">Yijia ACE2</td>
+    <td class="tg-c3ow">iPhone7</td>
+    <td class="tg-c3ow">Huawei nova9</td>
+    <td class="tg-c3ow">iPhone13Pro</td>
+    <td class="tg-c3ow">Redmi k50u</td>
+    <td class="tg-c3ow">JianguoPro2</td>
+    <td class="tg-c3ow">iPhone7</td>
+    <td class="tg-c3ow">Vivo iQQneo5</td>
+    <td class="tg-c3ow">iphone13 mini</td>
+    <td class="tg-c3ow">Xiaomi 12S</td>
   </tr>
   <tr>
-    <td colspan="2">Operating System<br></td>
-    <td>Android13</td>
-    <td>iOS15.2.1</td>
-    <td>HarmonyOS3.0.0</td>
-    <td>iOS16.1</td>
-    <td>Android12</td>
-    <td>Anroid7.1.1</td>
-    <td>iOS11</td>
-    <td>Android11</td>
-    <td>iOS16.4.1</td>
-    <td>Android12</td>
+    <td class="tg-7btt" colspan="2">Operating System<br></td>
+    <td class="tg-c3ow">Android13</td>
+    <td class="tg-c3ow">iOS15.2.1</td>
+    <td class="tg-c3ow">HarmonyOS3.0.0</td>
+    <td class="tg-c3ow">iOS16.1</td>
+    <td class="tg-c3ow">Android12</td>
+    <td class="tg-c3ow">Anroid7.1.1</td>
+    <td class="tg-c3ow">iOS11</td>
+    <td class="tg-c3ow">Android11</td>
+    <td class="tg-c3ow">iOS16.4.1</td>
+    <td class="tg-c3ow">Android12</td>
   </tr>
   <tr>
-    <td rowspan="2">10Hz Indoor <br>experiments' final coherence</td>
-    <td>Rotation Mode</td>
-    <td>0.8599</td>
-    <td>0.8642</td>
-    <td>0.8745</td>
-    <td>0.8189</td>
-    <td>0.9623</td>
-    <td>0.8192</td>
-    <td>0.8947</td>
-    <td>0.8471</td>
-    <td>0.8383</td>
-    <td>0.8721</td>
+    <td class="tg-7btt" rowspan="2">10Hz Indoor <br>experiments' final coherence</td>
+    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-c3ow">0.8599</td>
+    <td class="tg-c3ow">0.8642</td>
+    <td class="tg-c3ow">0.8745</td>
+    <td class="tg-c3ow">0.8189</td>
+    <td class="tg-c3ow">0.9623</td>
+    <td class="tg-c3ow">0.8192</td>
+    <td class="tg-c3ow">0.8947</td>
+    <td class="tg-c3ow">0.8471</td>
+    <td class="tg-c3ow">0.8383</td>
+    <td class="tg-c3ow">0.8721</td>
   </tr>
   <tr>
-    <td>Shaking Mode</td>
-    <td>0.7601</td>
-    <td>0.8318</td>
-    <td>0..8103</td>
-    <td>0.8004</td>
-    <td>0.8125</td>
-    <td>0.8154</td>
-    <td>0.7861</td>
-    <td>0.7103</td>
-    <td>0.7624</td>
-    <td>0.7457</td>
+    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-baqh">0.7601</td>
+    <td class="tg-baqh">0.8318</td>
+    <td class="tg-baqh">0..8103</td>
+    <td class="tg-baqh">0.8004</td>
+    <td class="tg-baqh">0.8125</td>
+    <td class="tg-baqh">0.8154</td>
+    <td class="tg-baqh">0.7861</td>
+    <td class="tg-baqh">0.7103</td>
+    <td class="tg-baqh">0.7624</td>
+    <td class="tg-baqh">0.7457</td>
   </tr>
   <tr>
-    <td rowspan="2">10Hz Outdoor<br>experiments' final coherence</td>
-    <td>Rotation Mode</td>
-    <td>0.8596</td>
-    <td>0.8423</td>
-    <td>0.8575</td>
-    <td>0.8056</td>
-    <td>0.8301</td>
-    <td>0.8427</td>
-    <td>0.8475</td>
-    <td>0.8611</td>
-    <td>0.8629</td>
-    <td>0.8293</td>
+    <td class="tg-7btt" rowspan="2">10Hz Outdoor<br>experiments' final coherence</td>
+    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-c3ow">0.8596</td>
+    <td class="tg-c3ow">0.8423</td>
+    <td class="tg-c3ow">0.8575</td>
+    <td class="tg-c3ow">0.8056</td>
+    <td class="tg-c3ow">0.8301</td>
+    <td class="tg-c3ow">0.8427</td>
+    <td class="tg-c3ow">0.8475</td>
+    <td class="tg-c3ow">0.8611</td>
+    <td class="tg-c3ow">0.8629</td>
+    <td class="tg-c3ow">0.8293</td>
   </tr>
   <tr>
-    <td>Shaking Mode</td>
-    <td>0.7180</td>
-    <td>0.7121</td>
-    <td>0.6293</td>
-    <td>0.6733</td>
-    <td>0.5989</td>
-    <td>0.7791</td>
-    <td>0.6126</td>
-    <td>0.7432</td>
-    <td>0.6255</td>
-    <td>0.7949</td>
+    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-baqh">0.7180</td>
+    <td class="tg-baqh">0.7121</td>
+    <td class="tg-baqh">0.6293</td>
+    <td class="tg-baqh">0.6733</td>
+    <td class="tg-baqh">0.5989</td>
+    <td class="tg-baqh">0.7791</td>
+    <td class="tg-baqh">0.6126</td>
+    <td class="tg-baqh">0.7432</td>
+    <td class="tg-baqh">0.6255</td>
+    <td class="tg-baqh">0.7949</td>
   </tr>
   <tr>
-    <td rowspan="2">60Hz experiments' final coherence</td>
-    <td>Rotation Mode</td>
-    <td>0.7581</td>
-    <td colspan="9" rowspan="4"></td>
+    <td class="tg-7btt" rowspan="2">60Hz experiments' final coherence</td>
+    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-c3ow">0.7581</td>
+    <td class="tg-hafo" colspan="9" rowspan="4"></td>
   </tr>
   <tr>
-    <td>Shaking Mode</td>
-    <td>0.5728</td>
+    <td class="tg-amwm">Shaking Mode</td>
+    <td class="tg-baqh">0.5728</td>
   </tr>
   <tr>
-    <td rowspan="2">100Hz experiments' final coherence</td>
-    <td>Rotation Mode</td>
-    <td>0.7629</td>
+    <td class="tg-7btt" rowspan="2">100Hz experiments' final coherence</td>
+    <td class="tg-7btt">Rotation Mode</td>
+    <td class="tg-c3ow">0.7629</td>
   </tr>
   <tr>
-    <td>Shaking Mode</td>
-    <td>0.7840</td>
+    <td class="tg-7btt">Shaking Mode</td>
+    <td class="tg-c3ow">0.7840</td>
   </tr>
 </tbody>
 </table>
