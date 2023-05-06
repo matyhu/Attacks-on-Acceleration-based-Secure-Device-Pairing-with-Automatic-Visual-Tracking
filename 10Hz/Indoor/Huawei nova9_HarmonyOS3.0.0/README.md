@@ -6,5 +6,5 @@
 </p>
 
 ## 2.The volunteer infomation
-* **sex:fmale**
+* **sex:male**
 * **age:25**
