@@ -125,7 +125,7 @@
    ![Alt](./100Hz/Rotation/The%20frequency%20domain%20of%20the%20acceleration.png)
 </div>
 
-# 6.Directory Tree:
+
 **We have done 44 experiments in total, and this directory tree shows the storage structure of all experimental results. According to the name of the folder, click to enter the last level folder, and you can see the results of the corresponding experiment.**
 ```
 Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracking
@@ -365,3 +365,46 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 </tbody>
 </table>
 </escape>
+# 6.The final coherence comparison of two legal devices and the attacker
+**We shake two legal devices together, and use a camera to randomly record the trajectory of one of the devices and estimate the acceleration. Man-in-the-middle attacker using estimated acceleration to attack legal devices. We conducted a total of 45*3=135 experiments, and the experimental results are stored in the ./Two legal devices&Attacker folder. We show the final coherence of the two mobile phones and the attacker at 10Hz, 60Hz and 100Hz in the "The final coherence comparison of two legal devices and the attacker".**
+
+* **1. Take the results in the path "Two_legal_devices&Attacker/1-Yijia ACE2 Android13/2-iPhone7 iOS15.2.1" as an example:**
+  
+<div align=center> 
+
+ ![Alt](./Two_legal_devices&Attacker/1-Yijia ACE2 Android13/2-iPhone7 iOS15.2.1/1&2_10Hz.gif ) 
+  <center><p> Shaking two devices in one hand  <center><p>
+
+</div>
+
+![Alt](./10Hz/Indoor/Huawei%20nova9_HarmonyOS3.0.0/Rotation/Indoor_10Hz_Huaweinova9_rotation.gif)
+<center><p> The indoor scenario  <center><p>
+
+
+
+
+<div align=center>
+
+![Alt](./10Hz/Indoor/Huawei%20nova9_HarmonyOS3.0.0/Rotation/Indoor_10Hz_Huaweinova9_rotation.gif)
+<center><p> The indoor scenario  <center><p>
+
+![Alt](./10Hz/Outdoor/Huawei%20nova9_HarmonyOS3.0.0/Rotation/Outdoor_10Hz_Huaweinova9_rotation.gif)
+<center><p> The outdoor scenario   <center><p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+* **The final coherence comparison of two legal devices and the attacker in 10Hz are shown in follow**
+<div align=center> 
+
+ ![Alt](./Two ) 
+
+</div>
