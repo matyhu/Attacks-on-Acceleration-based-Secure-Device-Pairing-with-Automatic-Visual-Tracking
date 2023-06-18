@@ -365,8 +365,9 @@ Attacks-on-Acceleration-based-Secure-Device-Pairing-with-Automatic-Visual-Tracki
 </tbody>
 </table>
 </escape>
-# 6.The final coherence comparison of two legal devices and the attacker
-**We shake two legal devices together, and use a camera to randomly record the trajectory of one of the devices and estimate the acceleration. Man-in-the-middle attacker using estimated acceleration to attack legal devices. We conducted a total of 45*3=135 experiments, and the experimental results are stored in the "./Two legal devices&Attacker" folder. We show the final coherence of the two mobile phones and the attacker at 10Hz, 60Hz and 100Hz in the "The final coherence comparison of two legal devices and the attacker".**
+## 6.The final coherence comparison of two legal devices and the attacker
+
+**10 volunteers shake two legal devices together, and we use a camera to randomly record the trajectory of one of the devices and estimate the acceleration. Man-in-the-middle attacker using estimated acceleration to attack legal devices. We conducted a total of 45*3=135 experiments, and the experimental results are stored in the "./Two legal devices&Attacker" folder. All the final coherence of the two mobile phones and the attacker at 10Hz, 60Hz and 100Hz are stored in the "./Two legal devices&Attacker/The final coherence comparison of two legal devices and the attacker.xlsx".**
 
 * **1. Take the results in the path "Two_legal_devices&Attacker/1-Yijia ACE2 Android13/2-iPhone7 iOS15.2.1" as an example. The attacker randomly attacks the device indicated in the first legend, and the acceleration curve of the attacked device is red.**
 
@@ -413,22 +414,24 @@ The attacker selects device2, and the final coherence of attacker's estimated ac
 **The final coherence of device1 and device2 shaking in one hand is 0.853.
 The attacker selects device2, and the final coherence of attacker's estimated acceleration and device2's measures acceleraion is 0.874.**
 
-* **The final coherence comparison of two legal devices and the attacker in 10Hz are shown in follow**
+ * **2. We draw the results as follow:** 
+  
+**The final coherence comparison of two legal devices and the attacker in 10Hz**
 <div align=center> 
 
  ![Alt](./Two_legal_devices%26Attacker/Comparison%20of%20final%20coherence_10Hz.png ) 
 
 </div>
 
-* **The final coherence comparison of two legal devices and the attacker in 60Hz are shown in follow**
+**The final coherence comparison of two legal devices and the attacker in 60Hz**
 
-**<div align=center> 
+<div align=center> 
 
  ![Alt](./Two_legal_devices%26Attacker/Comparison%20of%20final%20coherence_60Hz.png ) 
 
-</div>**
+</div>
 
-* **The final coherence comparison of two legal devices and the attacker in 60Hz are shown in follow**
+**The final coherence comparison of two legal devices and the attacker in 100Hz**
 
 <div align=center> 
 
@@ -436,7 +439,8 @@ The attacker selects device2, and the final coherence of attacker's estimated ac
 
 </div>
 
-#  7. In indoor and outdoor real environments, three wirst rotaiton modes (pitch, roll, yaw) in 10Hz, 60Hz, 100Hz are performed.
+##  7. In indoor and outdoor real environments, three wirst rotaiton modes (pitch, roll, yaw) in 10Hz, 60Hz, 100Hz are performed.
+
 **10 volunteers conducted experiments in three kinds of wirst rotation modes (pitch, roll, yaw) in indoor and outdoor real environments, and each mode collected accelerations at three frequencies of 10Hz, 60Hz and 100H. A total of 10*2*3*3=180 experiments were performed. Experimental results are stored in the "./Wrist_rotation" folder.**
 
 <div align=center>
